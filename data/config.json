@@ -1,0 +1,10 @@
+{
+ "season": {
+  "open": "11-15",
+  "close": "05-01"
+ },
+ "verdict": {
+  "yes": 70,
+  "maybe": 45
+ }
+}

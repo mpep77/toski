@@ -1,0 +1,23 @@
+{
+  "name": "toski",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "dev:full": "vercel dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test test/verdict.test.js"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

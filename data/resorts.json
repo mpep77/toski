@@ -1,0 +1,601 @@
+[
+ {
+  "name": "Stowe",
+  "state": "VT",
+  "vertical": 2360,
+  "trails": 116,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Killington",
+  "state": "VT",
+  "vertical": 3050,
+  "trails": 141,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Pico Mountain",
+  "state": "VT",
+  "vertical": 1967,
+  "trails": 57,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Sugarbush",
+  "state": "VT",
+  "vertical": 2600,
+  "trails": 111,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Stratton",
+  "state": "VT",
+  "vertical": 1800,
+  "trails": 99,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Okemo",
+  "state": "VT",
+  "vertical": 2200,
+  "trails": 123,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Mount Snow",
+  "state": "VT",
+  "vertical": 1700,
+  "trails": 86,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Jay Peak",
+  "state": "VT",
+  "vertical": 2153,
+  "trails": 78,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Burke Mountain",
+  "state": "VT",
+  "vertical": 2011,
+  "trails": 50,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Bolton Valley",
+  "state": "VT",
+  "vertical": 1704,
+  "trails": 71,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Magic Mountain",
+  "state": "VT",
+  "vertical": 1700,
+  "trails": 50,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Saskadena Six",
+  "state": "VT",
+  "vertical": 1000,
+  "trails": 23,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Mad River Glen",
+  "state": "VT",
+  "vertical": 2000,
+  "trails": 53,
+  "passes": []
+ },
+ {
+  "name": "Bromley",
+  "state": "VT",
+  "vertical": 1334,
+  "trails": 47,
+  "passes": []
+ },
+ {
+  "name": "Smugglers Notch",
+  "state": "VT",
+  "vertical": 2610,
+  "trails": 78,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Sugarloaf",
+  "state": "ME",
+  "vertical": 2820,
+  "trails": 162,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Sunday River",
+  "state": "ME",
+  "vertical": 2340,
+  "trails": 135,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Saddleback",
+  "state": "ME",
+  "vertical": 2000,
+  "trails": 68,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Mt. Abrams",
+  "state": "ME",
+  "vertical": 1030,
+  "trails": 35,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Big Rock",
+  "state": "ME",
+  "vertical": 860,
+  "trails": 30,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Shawnee Peak",
+  "state": "ME",
+  "vertical": 1300,
+  "trails": 40,
+  "passes": []
+ },
+ {
+  "name": "Loon Mountain",
+  "state": "NH",
+  "vertical": 2100,
+  "trails": 61,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Wildcat Mountain",
+  "state": "NH",
+  "vertical": 2112,
+  "trails": 48,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Attitash",
+  "state": "NH",
+  "vertical": 1750,
+  "trails": 68,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Mount Sunapee",
+  "state": "NH",
+  "vertical": 1510,
+  "trails": 67,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Crotched Mountain",
+  "state": "NH",
+  "vertical": 875,
+  "trails": 28,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Cannon Mountain",
+  "state": "NH",
+  "vertical": 2180,
+  "trails": 72,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Waterville Valley",
+  "state": "NH",
+  "vertical": 2020,
+  "trails": 52,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Black Mountain",
+  "state": "NH",
+  "vertical": 1100,
+  "trails": 45,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Pat's Peak",
+  "state": "NH",
+  "vertical": 710,
+  "trails": 28,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Dartmouth Skiway",
+  "state": "NH",
+  "vertical": 968,
+  "trails": 33,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Tenney Mountain",
+  "state": "NH",
+  "vertical": 1400,
+  "trails": 50,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Bretton Woods",
+  "state": "NH",
+  "vertical": 1500,
+  "trails": 101,
+  "passes": []
+ },
+ {
+  "name": "Cranmore",
+  "state": "NH",
+  "vertical": 1200,
+  "trails": 57,
+  "passes": []
+ },
+ {
+  "name": "Gunstock",
+  "state": "NH",
+  "vertical": 1400,
+  "trails": 55,
+  "passes": []
+ },
+ {
+  "name": "Whiteface",
+  "state": "NY",
+  "vertical": 3430,
+  "trails": 90,
+  "passes": []
+ },
+ {
+  "name": "Gore Mountain",
+  "state": "NY",
+  "vertical": 2537,
+  "trails": 109,
+  "passes": []
+ },
+ {
+  "name": "Hunter Mountain",
+  "state": "NY",
+  "vertical": 1600,
+  "trails": 67,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Windham Mountain",
+  "state": "NY",
+  "vertical": 1600,
+  "trails": 54,
+  "passes": []
+ },
+ {
+  "name": "Belleayre",
+  "state": "NY",
+  "vertical": 1404,
+  "trails": 50,
+  "passes": []
+ },
+ {
+  "name": "Greek Peak",
+  "state": "NY",
+  "vertical": 952,
+  "trails": 55,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Titus Mountain",
+  "state": "NY",
+  "vertical": 1200,
+  "trails": 50,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "West Mountain",
+  "state": "NY",
+  "vertical": 1010,
+  "trails": 31,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Catamount",
+  "state": "NY",
+  "vertical": 1000,
+  "trails": 33,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Hunt Hollow",
+  "state": "NY",
+  "vertical": 650,
+  "trails": 17,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Snow Ridge",
+  "state": "NY",
+  "vertical": 500,
+  "trails": 25,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Maple Ski Ridge",
+  "state": "NY",
+  "vertical": 460,
+  "trails": 14,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Wachusett",
+  "state": "MA",
+  "vertical": 1000,
+  "trails": 28,
+  "passes": []
+ },
+ {
+  "name": "Berkshire East",
+  "state": "MA",
+  "vertical": 1150,
+  "trails": 45,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Bousquet Mountain",
+  "state": "MA",
+  "vertical": 750,
+  "trails": 23,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Mohawk Mountain",
+  "state": "CT",
+  "vertical": 650,
+  "trails": 26,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Blue Mountain",
+  "state": "PA",
+  "vertical": 1082,
+  "trails": 40,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Camelback",
+  "state": "PA",
+  "vertical": 800,
+  "trails": 35,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Seven Springs",
+  "state": "PA",
+  "vertical": 750,
+  "trails": 33,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Liberty Mountain",
+  "state": "PA",
+  "vertical": 620,
+  "trails": 22,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Roundtop Mountain",
+  "state": "PA",
+  "vertical": 600,
+  "trails": 18,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Whitetail",
+  "state": "PA",
+  "vertical": 610,
+  "trails": 23,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Jack Frost",
+  "state": "PA",
+  "vertical": 600,
+  "trails": 21,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Big Boulder",
+  "state": "PA",
+  "vertical": 475,
+  "trails": 16,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Laurel Mountain",
+  "state": "PA",
+  "vertical": 720,
+  "trails": 18,
+  "passes": [
+   "epic"
+  ]
+ },
+ {
+  "name": "Blue Knob",
+  "state": "PA",
+  "vertical": 1072,
+  "trails": 34,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Ski Big Bear",
+  "state": "PA",
+  "vertical": 650,
+  "trails": 18,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Shawnee Mountain",
+  "state": "PA",
+  "vertical": 700,
+  "trails": 23,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Massanutten",
+  "state": "VA",
+  "vertical": 1110,
+  "trails": 70,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Bryce Resort",
+  "state": "VA",
+  "vertical": 500,
+  "trails": 10,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Canaan Valley",
+  "state": "WV",
+  "vertical": 850,
+  "trails": 47,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Winterplace",
+  "state": "WV",
+  "vertical": 603,
+  "trails": 27,
+  "passes": [
+   "indy"
+  ]
+ },
+ {
+  "name": "Snowshoe",
+  "state": "WV",
+  "vertical": 1500,
+  "trails": 60,
+  "passes": [
+   "ikon"
+  ]
+ },
+ {
+  "name": "Hidden Valley",
+  "state": "PA",
+  "vertical": 470,
+  "trails": 26,
+  "passes": [
+   "epic"
+  ]
+ }
+]
